@@ -1,0 +1,148 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "name": "Untitled0.ipynb",
+      "provenance": [],
+      "authorship_tag": "ABX9TyOnKkv6WRTFN+ki8AGlp/B0",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/Pravallikanalla123/Basic-ML/blob/main/Python%20Programs\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "6f-OG1fLxV9d",
+        "outputId": "c473e0b3-33e8-4812-c064-d6daca152df1"
+      },
+      "source": [
+        "a=30\n",
+        "b=10\n",
+        "mean=(a+b)/2\n",
+        "print(mean)"
+      ],
+      "execution_count": 5,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "text": [
+            "20.0\n"
+          ],
+          "name": "stdout"
+        }
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "2OywCxycyHUL"
+      },
+      "source": [
+        "Simple Python Programs 1"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "jxDvZX9PxX6I"
+      },
+      "source": [
+        "Simple Python Programs 2"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "1ZEB_ZsqxeP3",
+        "outputId": "6342b278-5baf-4fa4-c8af-7d91cf5b4e12"
+      },
+      "source": [
+        "a=90\n",
+        "b=60\n",
+        "c=a+b\n",
+        "print(c)"
+      ],
+      "execution_count": 1,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "text": [
+            "150\n"
+          ],
+          "name": "stdout"
+        }
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "OVmkW6RbySpX"
+      },
+      "source": [
+        "Simple Python Programs 3"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "AxbcfdoJyaC3",
+        "outputId": "a9a6d332-9cb1-4bef-95e1-825e1d2acd6b"
+      },
+      "source": [
+        "a=30\n",
+        "if a%2==0:\n",
+        "  print(a,\"is Even\")\n",
+        "else:\n",
+        "  print(a,\"is Odd\")"
+      ],
+      "execution_count": 4,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "text": [
+            "30 is Even\n"
+          ],
+          "name": "stdout"
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "id": "l9KFsOrhyods"
+      },
+      "source": [
+        ""
+      ],
+      "execution_count": null,
+      "outputs": []
+    }
+  ]
+}
